@@ -9,6 +9,9 @@ I work on security architecture – identity, authentication and how systems hol
 when real people use them. In my spare time I build small tools that make security,
 and the house, a little easier to live with.
 
+This is my personal GitHub account. I contribute to open source in my spare time,
+for fun and personal interest.
+
 [![Website](https://img.shields.io/badge/web-frank.cloud-0a66c2?style=flat-square)](https://frank.cloud)
 [![X](https://img.shields.io/badge/X-@sven__frank-111111?style=flat-square&logo=x)](https://x.com/sven_frank)
 
