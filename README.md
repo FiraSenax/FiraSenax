@@ -34,11 +34,6 @@ glad about a test report or an issue.
 The house runs on **Home Assistant** – after many years on ioBroker I switched sides.
 I keep forks of the integrations I use, such as Dreame robot vacuums and lawn mowers.
 
-### Off the keyboard
-
-**Handball.** I write match reports and cut highlight videos for our youth teams – and
-automate the tedious parts where I can.
-
 ---
 
 <sub>Topics I care about: passkeys & FIDO2 · security architecture · privacy by default ·
